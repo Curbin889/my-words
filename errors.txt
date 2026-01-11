@@ -24,3 +24,4 @@ apology
 appreciation
 assault
 assembly
+assistance

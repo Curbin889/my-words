@@ -18,3 +18,4 @@ allocate
 amateur
 ambulance
 analyst
+ancestor

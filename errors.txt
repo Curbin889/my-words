@@ -16,3 +16,4 @@ aide
 allegation
 allocate
 amateur
+ambulance

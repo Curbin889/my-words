@@ -13,3 +13,4 @@ adjacent
 aggression
 agricultural
 aide
+allegation

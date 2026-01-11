@@ -7,3 +7,4 @@ academic
 accessible
 accomplish
 accordance
+acquisition

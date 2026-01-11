@@ -19,3 +19,4 @@ amateur
 ambulance
 analyst
 ancestor
+annually

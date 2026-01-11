@@ -2,3 +2,4 @@ exhaust
 water
 vulnerable
 book
+abbreviation

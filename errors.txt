@@ -22,3 +22,4 @@ ancestor
 annually
 apology
 appreciation
+assault

@@ -41,3 +41,4 @@ beneficial
 beneficiary
 betray
 bid
+bind

@@ -65,3 +65,4 @@ casual
 catalogue
 cattle
 caution
+cease

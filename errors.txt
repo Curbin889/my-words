@@ -57,3 +57,4 @@ buffer
 bulk
 bureaucracy
 burial
+burst

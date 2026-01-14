@@ -42,3 +42,4 @@ beneficiary
 betray
 bid
 bind
+biography

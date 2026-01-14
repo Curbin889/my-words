@@ -46,3 +46,4 @@ biography
 bishop
 bizarre
 blast
+bold

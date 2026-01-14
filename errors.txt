@@ -61,3 +61,4 @@ burst
 carriage
 carve
 casino
+casual

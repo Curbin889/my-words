@@ -38,3 +38,4 @@ battlefield
 beam
 bench
 beneficial
+beneficiary

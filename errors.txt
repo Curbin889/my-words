@@ -90,3 +90,4 @@ columnist
 comic
 commence
 commentary
+commentator

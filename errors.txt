@@ -69,3 +69,4 @@ cease
 certainty
 challenging
 chamber
+characterize

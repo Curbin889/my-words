@@ -80,3 +80,4 @@ clerk
 cling
 cluster
 coalition
+coastal

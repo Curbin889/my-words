@@ -76,3 +76,4 @@ chop
 chronic
 circuit
 civic
+clerk

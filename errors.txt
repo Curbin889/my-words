@@ -72,3 +72,4 @@ chamber
 characterize
 cheek
 choir
+chop

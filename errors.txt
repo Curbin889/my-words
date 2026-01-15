@@ -79,3 +79,4 @@ civic
 clerk
 cling
 cluster
+coalition

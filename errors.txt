@@ -95,3 +95,4 @@ commerce
 comparable
 comparative
 compassion
+compensation

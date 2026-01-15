@@ -93,3 +93,4 @@ commentary
 commentator
 commerce
 comparable
+comparative

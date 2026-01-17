@@ -106,3 +106,4 @@ compulsory
 conceal
 concede
 conceive
+confer

@@ -107,3 +107,4 @@ conceal
 concede
 conceive
 confer
+configuration

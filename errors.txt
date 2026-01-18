@@ -196,3 +196,4 @@ deprive
 deputy
 descend
 descent
+designate

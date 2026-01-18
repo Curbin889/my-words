@@ -194,3 +194,4 @@ deploy
 depression
 deprive
 deputy
+descend

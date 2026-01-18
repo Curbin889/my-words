@@ -195,3 +195,4 @@ depression
 deprive
 deputy
 descend
+descent

@@ -182,3 +182,4 @@ deficit
 defy
 delegate
 delegation
+delicate

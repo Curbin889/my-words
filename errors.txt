@@ -192,3 +192,4 @@ dense
 density
 deploy
 depression
+deprive

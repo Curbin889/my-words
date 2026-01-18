@@ -183,3 +183,4 @@ defy
 delegate
 delegation
 delicate
+democratic

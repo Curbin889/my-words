@@ -155,3 +155,4 @@ coup
 courtesy
 creator
 critically
+critique

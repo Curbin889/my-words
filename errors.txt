@@ -177,3 +177,4 @@ deck
 declaration
 default
 defect
+deficiency

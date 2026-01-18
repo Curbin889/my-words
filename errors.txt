@@ -146,3 +146,4 @@ correspondent
 corridor
 corrupt
 corruption
+costly

@@ -174,3 +174,4 @@ debut
 decision-making
 decisive
 deck
+declaration

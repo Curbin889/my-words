@@ -178,3 +178,4 @@ declaration
 default
 defect
 deficiency
+deficit

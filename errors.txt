@@ -197,3 +197,4 @@ deputy
 descend
 descent
 designate
+desperately

@@ -167,3 +167,4 @@ curriculum
 custody
 cynical
 dam
+dare

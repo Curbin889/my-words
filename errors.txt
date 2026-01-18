@@ -179,3 +179,4 @@ default
 defect
 deficiency
 deficit
+defy

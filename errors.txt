@@ -204,3 +204,4 @@ detention
 deteriorate
 devastate
 devil
+devote

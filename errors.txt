@@ -215,3 +215,4 @@ diplomat
 directory
 disastrous
 discard
+discharge

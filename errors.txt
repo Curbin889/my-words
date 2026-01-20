@@ -211,3 +211,4 @@ dictate
 differ
 differentiate
 dilemma
+diplomat

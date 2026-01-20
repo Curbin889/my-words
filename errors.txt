@@ -214,3 +214,4 @@ dilemma
 diplomat
 directory
 disastrous
+discard

@@ -202,3 +202,4 @@ destruction
 destructive
 detention
 deteriorate
+devastate

@@ -226,3 +226,4 @@ dissolve
 distant
 distinguish
 distort
+distress

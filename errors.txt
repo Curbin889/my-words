@@ -250,3 +250,4 @@ elite
 embarrassment
 embassy
 empire
+empirical

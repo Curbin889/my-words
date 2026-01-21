@@ -267,3 +267,4 @@ equation
 equip
 equivalent
 erect
+escalate

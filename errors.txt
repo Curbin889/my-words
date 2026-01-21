@@ -271,3 +271,4 @@ escalate
 essence
 evolutionary
 exaggerate
+exceed

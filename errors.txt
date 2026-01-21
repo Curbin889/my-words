@@ -273,3 +273,4 @@ evolutionary
 exaggerate
 exceed
 excellence
+exception

@@ -246,3 +246,4 @@ elevate
 scenario
 scene
 eligible
+elite

@@ -272,3 +272,4 @@ essence
 evolutionary
 exaggerate
 exceed
+excellence

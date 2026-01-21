@@ -240,3 +240,4 @@ duo
 echo
 editorial
 elaborate
+electoral

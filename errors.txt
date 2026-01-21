@@ -257,3 +257,4 @@ endeavour
 endless
 endorse
 endorsement
+endure

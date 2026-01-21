@@ -269,3 +269,4 @@ equivalent
 erect
 escalate
 essence
+evolutionary

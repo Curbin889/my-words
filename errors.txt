@@ -263,3 +263,4 @@ enrol
 enthusiast
 envelope
 epidemic
+equation

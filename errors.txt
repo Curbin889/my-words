@@ -247,3 +247,4 @@ scenario
 scene
 eligible
 elite
+embarrassment

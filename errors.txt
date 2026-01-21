@@ -223,3 +223,4 @@ discourse
 discretion
 discrimination
 dissolve
+distant

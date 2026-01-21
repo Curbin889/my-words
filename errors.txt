@@ -239,3 +239,4 @@ dump
 duo
 echo
 editorial
+elaborate

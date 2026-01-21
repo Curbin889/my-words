@@ -253,3 +253,4 @@ empire
 empirical
 enact
 encompass
+endeavour

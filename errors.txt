@@ -268,3 +268,4 @@ equip
 equivalent
 erect
 escalate
+essence

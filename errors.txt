@@ -230,3 +230,4 @@ distress
 divorce
 doctrine
 dominance
+donor

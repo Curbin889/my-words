@@ -252,3 +252,4 @@ embassy
 empire
 empirical
 enact
+encompass

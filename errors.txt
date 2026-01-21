@@ -265,3 +265,4 @@ envelope
 epidemic
 equation
 equip
+equivalent

@@ -232,3 +232,4 @@ doctrine
 dominance
 donor
 drought
+dual

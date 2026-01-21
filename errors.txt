@@ -248,3 +248,4 @@ scene
 eligible
 elite
 embarrassment
+embassy

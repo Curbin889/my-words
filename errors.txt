@@ -243,3 +243,5 @@ elaborate
 electoral
 elegant
 elevate
+scenario
+scene

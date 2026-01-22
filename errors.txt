@@ -294,3 +294,4 @@ fare
 favourable
 feat
 feminist
+fever

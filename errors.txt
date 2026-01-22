@@ -284,3 +284,4 @@ expenditure
 explicit
 exposure
 extension
+extensively

@@ -283,3 +283,4 @@ exotic
 expenditure
 explicit
 exposure
+extension

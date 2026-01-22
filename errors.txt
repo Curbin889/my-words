@@ -282,3 +282,4 @@ exit
 exotic
 expenditure
 explicit
+exposure

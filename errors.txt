@@ -279,3 +279,4 @@ execute
 exert
 exile
 exit
+exotic

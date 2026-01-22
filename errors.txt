@@ -280,3 +280,4 @@ exert
 exile
 exit
 exotic
+expenditure

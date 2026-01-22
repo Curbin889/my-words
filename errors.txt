@@ -278,3 +278,4 @@ excessive
 execute
 exert
 exile
+exit

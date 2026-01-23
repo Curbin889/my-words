@@ -334,3 +334,4 @@ gesture
 gig
 glance
 glimpse
+globe

@@ -353,3 +353,4 @@ halt
 harassment
 hatred
 haunt
+hazard

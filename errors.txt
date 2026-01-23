@@ -335,3 +335,4 @@ gig
 glance
 glimpse
 globe
+glorious

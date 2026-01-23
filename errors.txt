@@ -381,3 +381,4 @@ imminent
 immune
 imprison
 inability
+inadequate

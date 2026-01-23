@@ -310,3 +310,4 @@ fluid
 fond
 fool
 forbid
+foreigner

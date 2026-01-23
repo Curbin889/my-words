@@ -318,3 +318,4 @@ forthcoming
 foundation
 founder
 fragile
+franchise

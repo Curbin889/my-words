@@ -332,3 +332,4 @@ genius
 genocide
 gesture
 gig
+glance

@@ -370,3 +370,4 @@ horn
 hostage
 hostile
 hostility
+humanitarian

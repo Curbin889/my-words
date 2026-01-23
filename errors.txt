@@ -349,3 +349,4 @@ guerrilla
 guideline
 guilt
 hail
+halt

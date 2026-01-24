@@ -474,3 +474,4 @@ auto
 autonomy
 balloon
 bankruptcy
+bare

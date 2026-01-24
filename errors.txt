@@ -486,3 +486,4 @@ castle
 catalog
 cemetery
 collision
+combat

@@ -455,3 +455,4 @@ apparatus
 apparel
 appetite
 applaud
+applicable

@@ -456,3 +456,4 @@ apparel
 appetite
 applaud
 applicable
+appoint

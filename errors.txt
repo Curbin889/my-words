@@ -460,3 +460,4 @@ appoint
 appropriately
 arbitrary
 architectural
+articulate

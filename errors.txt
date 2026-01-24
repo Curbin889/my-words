@@ -408,3 +408,4 @@ insult
 integral
 integrate
 intellectual
+intensity

@@ -437,3 +437,4 @@ lethal
 aids
 accusation
 acid
+acute

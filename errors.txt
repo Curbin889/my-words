@@ -438,3 +438,4 @@ aids
 accusation
 acid
 acute
+addiction

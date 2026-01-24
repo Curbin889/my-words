@@ -485,3 +485,4 @@ capitalist
 castle
 catalog
 cemetery
+collision

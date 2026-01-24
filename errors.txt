@@ -407,3 +407,4 @@ instruct
 insult
 integral
 integrate
+intellectual

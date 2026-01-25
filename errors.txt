@@ -543,3 +543,4 @@ enterprise
 entrepreneur
 evacuate
 experimental
+expire

@@ -532,3 +532,4 @@ divine
 drown
 dumb
 dynamic
+ease

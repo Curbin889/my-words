@@ -559,3 +559,4 @@ fiscal
 format
 fossil
 fraction
+freshman

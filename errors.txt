@@ -541,3 +541,4 @@ endeavor
 ensue
 enterprise
 entrepreneur
+evacuate

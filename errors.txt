@@ -515,3 +515,4 @@ database
 dedicated
 delighted
 dependent
+divise

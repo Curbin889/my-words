@@ -518,3 +518,4 @@ dependent
 divise
 dime
 diminish
+diplomatic

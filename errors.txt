@@ -536,3 +536,4 @@ ease
 economist
 dainty
 educator
+emergence

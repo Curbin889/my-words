@@ -586,3 +586,4 @@ intent
 interfere
 interior
 intermediate
+intersection

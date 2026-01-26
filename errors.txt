@@ -612,3 +612,4 @@ litter
 lobby
 long-standing
 loom
+lottery

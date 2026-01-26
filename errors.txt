@@ -614,3 +614,4 @@ long-standing
 loom
 lottery
 lyric
+machinery

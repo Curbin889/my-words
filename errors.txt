@@ -610,3 +610,4 @@ literally
 literary
 litter
 lobby
+long-standing

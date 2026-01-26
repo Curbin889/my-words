@@ -596,3 +596,4 @@ journalism
 kindergarten
 legend
 legislature
+lens

@@ -618,3 +618,4 @@ machinery
 magnitude
 maintenance
 mandatory
+manifest

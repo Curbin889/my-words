@@ -573,3 +573,4 @@ harmony
 immense
 incarcerate
 incarceration
+incidence

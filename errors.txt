@@ -615,3 +615,4 @@ loom
 lottery
 lyric
 machinery
+magnitude

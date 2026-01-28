@@ -710,3 +710,5 @@ passive
 pastor
 patch
 patent
+tedious
+miscellaneous

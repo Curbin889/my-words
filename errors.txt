@@ -707,3 +707,4 @@ parental
 parliament
 part-time
 passive
+pastor

@@ -638,3 +638,4 @@ membership
 memoir
 mentor
 merchant
+mere

@@ -686,3 +686,4 @@ novel
 nursing
 obesity
 obsession
+obstacle

@@ -693,3 +693,4 @@ offering
 opera
 operator
 optimism
+oral

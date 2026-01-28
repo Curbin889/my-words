@@ -713,3 +713,4 @@ patent
 tedious
 miscellaneous
 antenna
+patience

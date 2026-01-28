@@ -640,3 +640,4 @@ mentor
 merchant
 mere
 merit
+metaphor

@@ -709,3 +709,4 @@ part-time
 passive
 pastor
 patch
+patent

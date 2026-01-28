@@ -643,3 +643,4 @@ merit
 metaphor
 midst
 militant
+militia

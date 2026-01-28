@@ -639,3 +639,4 @@ memoir
 mentor
 merchant
 mere
+merit

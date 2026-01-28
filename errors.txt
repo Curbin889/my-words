@@ -661,3 +661,4 @@ monopoly
 monthly
 moreover
 mortgage
+mosque
